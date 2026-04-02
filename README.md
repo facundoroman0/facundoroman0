@@ -2,7 +2,7 @@
 
 # Hola, soy Facundo Romano 👋
 
-**Desarrollador Web** · La Banda, Santiago del Estero, Argentina
+**Desarrollador Web** · Santiago del Estero, Argentina
 
 [![Email](https://img.shields.io/badge/Email-devfacundo0%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:devfacundo0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Facundo%20Romano-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
